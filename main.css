@@ -62,7 +62,6 @@ P {
 a {
 	color: rgb(255, 255, 255);
 	font-family: Aldrich;
-	margin: 20px;
 }
 span {
 	text-align: left;
@@ -73,3 +72,4 @@ div {
 	float: right;
 
 }
+
